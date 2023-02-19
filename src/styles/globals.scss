@@ -1,0 +1,9 @@
+@import "./variables.scss";
+body {
+    margin: 0;
+    font-family: "Maven Pro", sans-serif;
+    background: radial-gradient(312% 232.63% at 167.12% -69.17%, #7a4aff 0%, #12054e 51.59%, #090606 99.34%);
+    // background-image: url("../assets/svgs/background-img.svg");
+    color: white;
+    min-height: 100vh;
+}
